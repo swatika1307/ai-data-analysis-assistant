@@ -1,6 +1,6 @@
-# 📊 AI Data Analysis Assistants
+# 📊 AI Data Analysis Assistant
 
-An interactive data analytics application built using Python, Pandas, and Streamlit that automatically analyzes uploaded datasets, generates insights, evaluates dataset quality, and answers user queries dynamically through a user-friendly interface.
+An interactive data analytics application built using Python, Pandas, and Streamlit that automatically analyzes uploaded datasets, generates insights, evaluates dataset quality, and answers user queries dynamically through a user-friendly interface. This application uses rule-based analytics and keyword-driven logic to automate exploratory data analysis tasks.
 
 **Project Type:** Data Analytics / Interactive Analytics Application  
 **Dataset:** User-uploaded CSV datasets  

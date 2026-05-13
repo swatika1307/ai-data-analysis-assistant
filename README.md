@@ -11,7 +11,7 @@ An interactive data analytics application built using Python, Pandas, and Stream
 
 ## Dashboard Preview
 
-![Book Data Dashboard](assets/dashboard-preview.png)
+![Ask Your Data](app.png)
 
 ---
 

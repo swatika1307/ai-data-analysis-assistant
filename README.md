@@ -37,6 +37,7 @@ The goal of the project is to simplify exploratory data analysis and provide qui
 ## Objective
 
 The objective of this project is to create a beginner-friendly analytics assistant that automates repetitive exploratory data analysis tasks and helps users quickly understand the quality and patterns present in their datasets.
+
 ---
 
 ## Features

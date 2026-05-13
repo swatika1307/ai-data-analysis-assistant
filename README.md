@@ -2,10 +2,10 @@
 
 An interactive data analytics application built using Python, Pandas, and Streamlit that automatically analyzes uploaded datasets, generates insights, evaluates dataset quality, and answers user queries dynamically through a user-friendly interface.
 
-**Project Type:** Data Analytics / Interactive Analytics Application 
-**Dataset:** User-uploaded CSV datasets 
-**Tools:** Python, Pandas, NumPy, Streamlit 
-**Key Focus:** Automated insight generation, Dataset quality analysis, Dynamic question answering, Report generation, Exploratory data analysis
+**Project Type:** Data Analytics / Interactive Analytics Application  
+**Dataset:** User-uploaded CSV datasets  
+**Tools:** Python, Pandas, NumPy, Streamlit  
+**Key Focus:** Automated insight generation, Dataset quality analysis, Dynamic question answering, Report generation, Exploratory data analysis  
 
 ---
 
